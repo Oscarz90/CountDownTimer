@@ -66,3 +66,5 @@ yarn run serve
 ```
 yarn run build
 ```
+
+[![asciicast](https://asciinema.org/a/195513.png)](https://asciinema.org/a/195513)
